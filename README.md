@@ -1,24 +1,23 @@
-Projeto de Data Science: Otimização e Previsão de Risco na HealthCare Solutions
+#  Projeto de Data Science: Otimização e Previsão de Risco na HealthCare Solutions
 
-Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este projeto utiliza o ciclo completo de Data Science para transformar dados hospitalares simulados em inteligência acionável. O objetivo principal é desenvolver um **modelo preditivo** que avalie o **risco de readmissão hospitalar em 30 dias** e identifique os fatores operacionais e clínicos que mais contribuem para este risco.
 
 O projeto foi estruturado em três etapas principais, conforme os scripts abaixo.
 
-Como Executar o Projeto
+## Como Executar o Projeto
 
 Para rodar a análise e o modelo de Machine Learning, siga a ordem de execução abaixo:
 
-1. Pré-requisitos
+### 1. Pré-requisitos
 Certifique-se de ter o Python (versão 3.8+) instalado. É altamente recomendável usar um ambiente virtual (`venv`).
 
-2. Instalação das Dependências
+### 2. Instalação das Dependências
 Instale todas as bibliotecas necessárias via `pip`:
 
 ```bash
-pip install pandas numpy scikit-learn seaborn matplotlib faker# analise-dados-healthcare
-Projeto de análise de dados para identificar melhorias no atendimento ao paciente na Healthcare Solutions.
+pip install pandas numpy scikit-learn seaborn matplotlib faker
 2. Como Executar o Projeto
 ​Os scripts devem ser executados em ordem numérica para garantir a correta dependência de dados:
 ​Script 1_gerar_dados.py (Criação do Dataset):
