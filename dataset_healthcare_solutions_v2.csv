@@ -1,0 +1,151 @@
+﻿id_paciente,nome,cidade,idade,sexo,tempo_espera_min,satisfacao_paciente,diagnostico,dispositivo_monitoramento,nivel_urgencia,readmissao_30dias,tempo_internacao_dias,custo_atendimento
+1,Ana Julia Lopes,Almeida Verde,81,Feminino,96,1,Gripe,Glicômetro,Média,Não,3,14794.55
+2,Rafael Vieira,Martins do Galho,32,Feminino,41,3,Asma,Glicômetro,Baixa,Não,8,12272.67
+3,Sr. João Miguel da Costa,Alves de Minas,72,Masculino,110,1,Covid-19,Glicômetro,Baixa,Sim,2,13331.02
+4,Sr. Gabriel Barbosa,Oliveira Grande,62,Feminino,19,1,Infecção Urinária,Glicômetro,Média,Não,7,14437.72
+5,Aylla Abreu,da Mata,88,Feminino,43,5,Infecção Urinária,Smartwatch,Alta,Sim,3,13346.44
+6,Joana Cirino,Cunha,47,Outro,13,4,Asma,Glicômetro,Média,Sim,7,10079.57
+7,Lucas Gonçalves,da Rosa de Pinto,61,Masculino,30,3,Gripe,Nenhum,Média,Sim,6,9255.22
+8,Dr. Yan Correia,Jesus de Vargas,40,Feminino,18,5,Covid-19,Oxímetro,Alta,Não,7,15752.5
+9,Kevin Duarte,Costela,93,Feminino,27,4,Asma,Smartwatch,Média,Sim,1,861.43
+10,Sr. Arthur Gabriel Aragão,Ferreira do Sul,51,Outro,11,4,Gripe,Nenhum,Baixa,Não,4,2887.72
+11,Bryan Rezende,da Conceição,83,Masculino,16,2,Asma,Glicômetro,Alta,Sim,3,11298.29
+12,Pedro Miguel Lima,da Cunha da Mata,64,Masculino,36,2,Gripe,Oxímetro,Baixa,Sim,3,9985.38
+13,Sra. Milena Guerra,Lopes,70,Outro,46,1,Infecção Urinária,Smartwatch,Média,Não,8,3202.94
+14,Murilo Barbosa,Barros do Amparo,82,Outro,28,1,Infecção Urinária,Smartwatch,Média,Não,6,18824.75
+15,Raul Araújo,Vargas,17,Outro,11,2,Infecção Urinária,Nenhum,Média,Sim,6,15670.54
+16,Rael Duarte,Garcia,54,Outro,208,5,Infecção Urinária,Nenhum,Baixa,Sim,1,7552.57
+17,Dr. Bruno Viana,Duarte de da Rocha,81,Outro,64,3,Fratura,Pressão Arterial,Média,Sim,1,15422.88
+18,Daniel Porto,da Rosa de Minas,62,Masculino,66,5,Infecção Urinária,Nenhum,Média,Não,4,13403.48
+19,João Felipe Novaes,Araújo Grande,76,Feminino,35,4,Fratura,Smartwatch,Baixa,Sim,8,11588.36
+20,Maria Flor Moraes,Guerra,63,Masculino,30,4,Asma,Glicômetro,Média,Sim,2,12258.6
+21,Luara Sousa,Correia de Goiás,22,Outro,26,5,Infecção Urinária,Nenhum,Alta,Sim,9,4145.49
+22,Clara Costela,Pacheco dos Dourados,67,Outro,43,1,Covid-19,Smartwatch,Média,Não,3,16958.09
+23,Dr. Valentim Costela,Pereira,42,Masculino,19,4,Asma,Glicômetro,Média,Sim,6,18459.7
+24,Igor Silva,Camargo dos Dourados,49,Masculino,70,5,Infecção Urinária,Smartwatch,Média,Sim,1,3989.09
+25,Vinicius Casa Grande,Casa Grande,91,Outro,78,2,Covid-19,Glicômetro,Média,Sim,2,15285.73
+26,Arthur Gabriel Vasconcelos,da Costa,55,Feminino,12,3,Covid-19,Pressão Arterial,Baixa,Não,1,19587.71
+27,Dr. Miguel Abreu,Lopes da Mata,18,Masculino,43,5,Gripe,Pressão Arterial,Média,Não,8,19765.45
+28,Brayan Cunha,Albuquerque,84,Masculino,18,3,Gripe,Smartwatch,Baixa,Sim,8,15927.12
+29,Maria Sophia Gomes,Porto das Pedras,79,Feminino,43,1,Covid-19,Smartwatch,Alta,Não,6,9050.67
+30,Sarah Lopes,Fogaça das Pedras,90,Feminino,56,5,Fratura,Nenhum,Baixa,Não,9,3190.28
+31,Maria Sophia Pereira,Vargas,49,Outro,7,1,Covid-19,Smartwatch,Alta,Não,2,5470.99
+32,Vitor Hugo Aragão,Pires da Mata,73,Masculino,8,4,Fratura,Glicômetro,Média,Não,6,3145.1
+33,Maria Alice Marques,Lopes Paulista,25,Feminino,45,3,Asma,Glicômetro,Alta,Não,7,17763.49
+34,Srta. Maria Liz Fogaça,Porto,37,Masculino,111,3,Asma,Glicômetro,Média,Não,8,11448.23
+35,Bianca Costela,Pastor do Campo,92,Masculino,38,4,Infecção Urinária,Nenhum,Média,Não,1,11410.27
+36,Raul Pires,das Neves,33,Masculino,17,5,Fratura,Pressão Arterial,Média,Não,7,8092.23
+37,Maysa Gonçalves,das Neves,30,Masculino,22,2,Covid-19,Nenhum,Alta,Não,5,1365.25
+38,Cecilia Macedo,Gomes,42,Masculino,76,2,Infecção Urinária,Nenhum,Alta,Não,2,13619.31
+39,Antônio Fogaça,Vasconcelos,45,Outro,36,3,Infecção Urinária,Pressão Arterial,Alta,Não,5,3889.38
+40,Yago da Cunha,Porto,67,Masculino,38,5,Infecção Urinária,Glicômetro,Média,Não,3,10756.45
+41,Mateus das Neves,Viana Grande,85,Feminino,114,3,Infecção Urinária,Smartwatch,Baixa,Sim,3,11416.28
+42,Dra. Ana Júlia Farias,Farias,41,Feminino,48,3,Covid-19,Smartwatch,Alta,Não,2,14056.72
+43,Stephany Souza,Nunes,21,Outro,26,1,Gripe,Nenhum,Média,Sim,1,6129.65
+44,Théo Ramos,Guerra,29,Outro,15,2,Gripe,Smartwatch,Alta,Não,2,8918.88
+45,Bruno Jesus,Correia de da Luz,90,Feminino,121,5,Asma,Oxímetro,Alta,Não,2,11578.76
+46,Dr. José Sá,Mendes,69,Outro,7,3,Asma,Pressão Arterial,Alta,Não,7,7583.21
+47,Dr. Diego Borges,Borges da Serra,86,Feminino,27,5,Infecção Urinária,Pressão Arterial,Média,Sim,7,7767.9
+48,Vitor Gabriel Teixeira,Gonçalves,16,Outro,26,5,Covid-19,Oxímetro,Alta,Não,4,3850.23
+49,Stephany Azevedo,Sousa de Araújo,58,Outro,30,5,Fratura,Nenhum,Alta,Sim,7,5041.83
+50,Olívia Barbosa,Rocha de Novais,73,Feminino,98,2,Infecção Urinária,Pressão Arterial,Alta,Não,8,7656.9
+51,Isabela Casa Grande,Peixoto,70,Outro,60,4,Gripe,Oxímetro,Média,Sim,8,2798.25
+52,Yago Viana,da Costa,40,Outro,36,2,Asma,Smartwatch,Média,Sim,7,17923.86
+53,Heloisa Alves,Macedo,65,Feminino,11,5,Covid-19,Oxímetro,Baixa,Não,2,9201.27
+54,Sr. Davi Luiz Araújo,Rezende,71,Feminino,45,2,Covid-19,Pressão Arterial,Alta,Não,4,15244.8
+55,Yan Teixeira,Fernandes,64,Masculino,17,1,Gripe,Glicômetro,Alta,Sim,8,9699.87
+56,Srta. Aurora Gonçalves,Carvalho,27,Feminino,106,2,Fratura,Nenhum,Média,Não,3,5516.74
+57,Liz Martins,Dias de Pereira,33,Masculino,32,5,Asma,Smartwatch,Alta,Não,4,8971.67
+58,Maria Helena Sales,Castro da Serra,16,Feminino,33,2,Covid-19,Oxímetro,Baixa,Sim,9,18509.19
+59,Maria Cecília da Paz,Carvalho da Mata,66,Outro,26,1,Gripe,Nenhum,Alta,Não,1,19974.52
+60,Cecilia Sales,Santos,59,Outro,36,1,Infecção Urinária,Pressão Arterial,Baixa,Não,4,12333.74
+61,Maria Eduarda Pires,Pacheco,63,Feminino,29,2,Covid-19,Oxímetro,Média,Não,4,13155.24
+62,Giovanna Carvalho,Viana do Galho,71,Outro,126,5,Fratura,Pressão Arterial,Alta,Sim,9,17446.13
+63,Sr. Arthur Miguel Novaes,da Conceição do Galho,64,Feminino,36,5,Covid-19,Glicômetro,Baixa,Não,7,18462.54
+64,Theodoro Machado,Camargo,18,Feminino,14,3,Covid-19,Glicômetro,Média,Sim,4,8472.6
+65,Mariah Casa Grande,Pacheco,82,Outro,39,5,Gripe,Oxímetro,Baixa,Não,8,6132.0
+66,Maysa Pimenta,Azevedo do Oeste,26,Outro,21,4,Covid-19,Oxímetro,Média,Não,6,14557.17
+67,Srta. Isabelly Macedo,Ribeiro de Minas,36,Outro,16,5,Asma,Nenhum,Média,Não,9,13181.12
+68,Júlia Brito,Moreira da Mata,18,Feminino,38,4,Covid-19,Pressão Arterial,Alta,Não,5,10314.15
+69,João Pedro Correia,Teixeira do Galho,26,Masculino,75,4,Infecção Urinária,Nenhum,Alta,Sim,9,16696.34
+70,Lorenzo Fogaça,Câmara da Mata,18,Outro,92,3,Fratura,Nenhum,Baixa,Sim,6,17678.15
+71,Eloá Câmara,Cardoso da Mata,21,Feminino,5,3,Gripe,Smartwatch,Alta,Sim,2,14382.07
+72,Manuella Campos,Câmara,24,Outro,57,5,Fratura,Glicômetro,Alta,Não,8,6232.41
+73,Isabella Pastor,Barbosa,29,Feminino,24,5,Fratura,Smartwatch,Alta,Sim,3,12625.18
+74,Dante Câmara,Souza Paulista,85,Masculino,98,4,Infecção Urinária,Glicômetro,Média,Sim,8,9339.32
+75,Luiz Miguel Gomes,Oliveira Grande,27,Outro,11,3,Covid-19,Pressão Arterial,Alta,Não,9,19791.05
+76,Milena Cavalcanti,Moreira,69,Outro,31,3,Asma,Pressão Arterial,Alta,Não,2,14685.02
+77,Maria Isis Casa Grande,Pinto Grande,42,Outro,67,5,Gripe,Oxímetro,Alta,Sim,8,17254.02
+78,Marcelo Porto,Vargas de Albuquerque,53,Feminino,23,1,Fratura,Smartwatch,Alta,Sim,2,9661.26
+79,Leandro Sousa,Cirino de Farias,32,Masculino,25,1,Gripe,Glicômetro,Alta,Sim,9,3075.56
+80,Alice da Rocha,Costa,76,Outro,12,1,Asma,Oxímetro,Média,Não,2,5101.06
+81,Laura Santos,Rios,89,Outro,31,3,Asma,Pressão Arterial,Média,Sim,3,15775.89
+82,Pietra Sousa,Peixoto,80,Outro,16,1,Fratura,Glicômetro,Alta,Sim,4,16011.53
+83,Luiz Otávio Castro,Almeida,62,Feminino,7,1,Covid-19,Glicômetro,Baixa,Não,5,11730.66
+84,Yasmin Pimenta,Cavalcanti das Flores,31,Feminino,34,5,Gripe,Nenhum,Média,Sim,3,7545.87
+85,Maria Sophia Viana,Pires,20,Feminino,28,5,Asma,Pressão Arterial,Média,Não,1,11503.39
+86,Lorena Rios,Viana de das Neves,61,Outro,26,2,Asma,Pressão Arterial,Baixa,Sim,8,3981.87
+87,Juliana da Luz,Sampaio de Minas,30,Masculino,32,1,Fratura,Smartwatch,Baixa,Sim,6,14414.15
+88,Isaque Rocha,Aparecida das Flores,74,Masculino,30,4,Asma,Pressão Arterial,Alta,Não,9,4458.81
+89,Srta. Sophie Ribeiro,Borges,55,Outro,34,1,Asma,Glicômetro,Média,Não,6,6682.28
+90,Emanuel Pacheco,Monteiro de Vieira,40,Feminino,45,1,Gripe,Nenhum,Média,Sim,1,7348.55
+91,Liz Cavalcante,Jesus,60,Feminino,42,1,Gripe,Glicômetro,Média,Sim,6,881.52
+92,Sra. Emanuelly Fogaça,Novais da Prata,64,Masculino,33,1,Infecção Urinária,Smartwatch,Alta,Sim,6,8908.15
+93,Vinícius Cirino,Pinto de Pires,15,Masculino,18,5,Asma,Smartwatch,Baixa,Sim,2,16737.83
+94,Kevin Cassiano,da Rosa,50,Feminino,27,5,Infecção Urinária,Nenhum,Baixa,Não,4,4136.41
+95,Sra. Maria Clara Lopes,da Luz,44,Masculino,51,1,Infecção Urinária,Oxímetro,Média,Sim,9,8272.36
+96,Olívia Andrade,da Cunha de Gomes,16,Feminino,32,2,Infecção Urinária,Oxímetro,Alta,Sim,1,16090.53
+97,Pietra Sampaio,Mendes,83,Feminino,80,2,Gripe,Smartwatch,Média,Não,9,11024.12
+98,Sr. Paulo Sampaio,Brito das Flores,45,Feminino,21,1,Infecção Urinária,Pressão Arterial,Alta,Sim,1,9125.16
+99,Cecília Caldeira,Novaes,22,Masculino,21,4,Infecção Urinária,Pressão Arterial,Baixa,Não,1,9644.92
+100,Julia Almeida,Moreira Verde,75,Outro,54,5,Covid-19,Glicômetro,Alta,Não,3,17210.67
+101,Yuri Silveira,Martins,80,Feminino,133,3,Gripe,Nenhum,Baixa,Sim,6,2239.64
+102,Davi da Rosa,Dias de Moura,91,Outro,23,4,Asma,Pressão Arterial,Média,Sim,2,9468.23
+103,Dra. Camila da Cruz,Araújo,82,Feminino,12,5,Gripe,Oxímetro,Média,Sim,3,15091.11
+104,Bryan Aparecida,Correia,59,Feminino,25,3,Infecção Urinária,Smartwatch,Baixa,Não,4,12792.59
+105,João Lucas Silva,Aparecida Grande,66,Outro,35,2,Covid-19,Oxímetro,Baixa,Sim,1,2470.8
+106,Anna Liz Pereira,Azevedo,22,Feminino,41,2,Asma,Pressão Arterial,Média,Sim,7,15044.37
+107,Ana Laura Pinto,Machado,85,Feminino,34,5,Covid-19,Pressão Arterial,Alta,Não,8,10919.81
+108,Lucas Gabriel Gonçalves,da Conceição,28,Feminino,8,5,Fratura,Pressão Arterial,Média,Não,4,12201.69
+109,Maria Camargo,Moura de Moura,43,Masculino,20,3,Gripe,Glicômetro,Alta,Não,8,11642.14
+110,Melissa Moreira,Correia,78,Feminino,11,2,Covid-19,Glicômetro,Média,Sim,5,17957.81
+111,Pedro Lucas Cavalcanti,das Neves de Minas,51,Masculino,27,4,Fratura,Oxímetro,Baixa,Não,9,5626.28
+112,Dr. Levi Azevedo,Cunha,55,Masculino,28,2,Covid-19,Pressão Arterial,Baixa,Não,1,7017.99
+113,Ryan Cardoso,da Mata,78,Feminino,18,3,Infecção Urinária,Smartwatch,Alta,Sim,8,13645.24
+114,Lorenzo Porto,Castro,73,Outro,15,2,Covid-19,Smartwatch,Alta,Sim,1,16040.56
+115,Caroline Pires,Rios,92,Masculino,11,4,Covid-19,Oxímetro,Baixa,Não,1,3394.25
+116,Davi Miguel Rocha,Vasconcelos,23,Outro,66,2,Gripe,Oxímetro,Alta,Não,3,7915.1
+117,Lorena Jesus,Ramos de da Rocha,93,Outro,52,4,Covid-19,Smartwatch,Alta,Sim,5,13756.38
+118,Anna Liz Fernandes,Cassiano do Norte,21,Outro,6,1,Infecção Urinária,Pressão Arterial,Baixa,Sim,2,12884.59
+119,Julia Castro,da Rosa de Goiás,80,Feminino,43,4,Covid-19,Smartwatch,Alta,Sim,6,13564.33
+120,Pedro Castro,Garcia de Farias,85,Feminino,13,4,Infecção Urinária,Oxímetro,Baixa,Não,9,4863.98
+121,Brayan da Cunha,Ribeiro do Galho,55,Masculino,68,5,Infecção Urinária,Smartwatch,Alta,Sim,6,18905.44
+122,Dr. Henry Vieira,Aparecida,89,Outro,11,2,Gripe,Nenhum,Baixa,Sim,7,17322.92
+123,Valentina Abreu,Cunha de Gomes,91,Feminino,45,2,Fratura,Nenhum,Alta,Não,9,14298.38
+124,Kamilly Costela,da Mota Grande,91,Feminino,58,5,Covid-19,Pressão Arterial,Alta,Sim,5,9507.72
+125,João Vitor Borges,Machado,40,Masculino,31,2,Asma,Nenhum,Alta,Sim,9,11109.85
+126,Sabrina Farias,Cunha da Serra,22,Outro,51,1,Asma,Oxímetro,Média,Não,5,11622.57
+127,Srta. Emanuelly Araújo,Leão de Ramos,28,Outro,25,3,Asma,Pressão Arterial,Baixa,Não,2,5323.34
+128,Sr. Benjamim das Neves,Cunha de Ribeiro,59,Outro,67,2,Asma,Smartwatch,Baixa,Sim,4,11368.49
+129,Olivia Marques,Costa da Praia,16,Feminino,28,4,Infecção Urinária,Nenhum,Baixa,Não,3,16850.55
+130,Ana Liz Cunha,da Cruz,56,Masculino,34,1,Asma,Nenhum,Alta,Sim,8,14657.69
+131,Dr. Juan Sá,Farias,93,Outro,31,4,Infecção Urinária,Glicômetro,Média,Não,1,3415.19
+132,Lorena Costa,Costa,71,Outro,30,4,Infecção Urinária,Glicômetro,Média,Não,7,7980.38
+133,Hellena Azevedo,Gonçalves,78,Feminino,26,1,Asma,Nenhum,Baixa,Sim,3,5815.56
+134,Vicente Cirino,Moraes,18,Feminino,68,1,Asma,Glicômetro,Alta,Não,8,7248.1
+135,Srta. Ayla Albuquerque,da Mota Grande,32,Feminino,216,2,Covid-19,Glicômetro,Baixa,Não,4,16191.96
+136,Catarina Casa Grande,da Rosa,84,Outro,99,3,Fratura,Smartwatch,Baixa,Não,7,19317.68
+137,Ana Beatriz Rezende,Barros,65,Outro,45,4,Asma,Pressão Arterial,Média,Sim,5,1848.34
+138,Letícia Rios,Vasconcelos,17,Feminino,10,4,Gripe,Smartwatch,Baixa,Não,3,9626.32
+139,Raul da Paz,Castro,33,Outro,12,1,Infecção Urinária,Glicômetro,Média,Não,7,5938.11
+140,Lucas Gabriel Moraes,Silveira do Norte,61,Masculino,75,3,Gripe,Nenhum,Média,Não,5,11152.05
+141,Isaque Rezende,Fogaça do Amparo,60,Feminino,12,4,Fratura,Nenhum,Alta,Não,8,15248.2
+142,Aylla Rocha,da Cruz,72,Masculino,6,1,Covid-19,Nenhum,Média,Sim,1,18551.19
+143,Gabriela Correia,Barbosa,50,Outro,37,2,Covid-19,Smartwatch,Média,Não,4,6938.62
+144,Murilo Souza,Nunes,33,Feminino,58,2,Covid-19,Pressão Arterial,Média,Não,4,17685.93
+145,Pedro Henrique Sá,da Luz,61,Feminino,35,5,Infecção Urinária,Smartwatch,Alta,Não,2,4072.86
+146,Dr. Lorenzo Silveira,Monteiro,69,Feminino,55,5,Asma,Pressão Arterial,Média,Não,3,11541.53
+147,Maria Alice Abreu,Brito,88,Masculino,29,2,Infecção Urinária,Pressão Arterial,Média,Sim,2,8377.89
+148,Gael Henrique Carvalho,da Rosa,77,Outro,33,1,Asma,Pressão Arterial,Alta,Não,4,16988.2
+149,Sr. Henry Gabriel Martins,Albuquerque das Flores,82,Feminino,62,1,Gripe,Smartwatch,Baixa,Sim,1,19309.36
+150,Calebe da Paz,Sá,26,Outro,32,5,Covid-19,Oxímetro,Alta,Sim,5,1611.57
