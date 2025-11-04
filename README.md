@@ -45,3 +45,6 @@ pip install pandas numpy scikit-learn seaborn matplotlib faker
 ​Idade: O terceiro fator, que valida a necessidade de programas de acompanhamento focados em faixas etárias de maior risco.
 ​Conformidade Legal (LGPD):
 ​Todos os dados utilizados no projeto foram 100% simulados através da biblioteca Faker. Essa abordagem garante total aderência aos princípios da Lei Geral de Proteção de Dados (LGPD), assegurando a ética e a segurança de informações sensíveis.
+
+
+Vídeo Pitch:** Assista à explicação detalhada e a demonstração dos resultados aqui: [INSERIR LINK DO SEU VÍDEO NO YOUTUBE AQUI]
