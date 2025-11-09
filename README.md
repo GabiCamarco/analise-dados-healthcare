@@ -47,4 +47,4 @@ pip install pandas numpy scikit-learn seaborn matplotlib faker
 ​Todos os dados utilizados no projeto foram 100% simulados através da biblioteca Faker. Essa abordagem garante total aderência aos princípios da Lei Geral de Proteção de Dados (LGPD), assegurando a ética e a segurança de informações sensíveis.
 
 
-Vídeo Pitch:** Assista à explicação detalhada e a demonstração dos resultados aqui: [INSERIR LINK DO SEU VÍDEO NO YOUTUBE AQUI]
+Vídeo Pitch:** Assista à explicação detalhada e a demonstração dos resultados aqui: https://youtu.be/daRTDf8OSts
